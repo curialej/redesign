@@ -1,4 +1,5 @@
 
+
 p {
   padding: 10px 10px 10px 10px;
 }
@@ -6,3 +7,12 @@ body{
   color: #414141;
   background-color: #EEEEEE;
   font-size: 18px;
+}
+img{
+  width:auto;
+  max-width: 100%;
+  height: auto;
+  }
+section {
+  text-align: center;
+}
